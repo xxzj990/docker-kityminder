@@ -1,5 +1,5 @@
 # 基础镜像
-FROM mattrayner/lamp
+FROM fauria/lamp
 # 维护人员
 MAINTAINER  liuhong1.happy@163.com
 # 添加环境变量
